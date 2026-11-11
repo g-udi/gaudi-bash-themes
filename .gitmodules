@@ -1,4 +1,4 @@
 [submodule "gaudi"]
 	path = gaudi
-	url = git@github.com:g-udi/gaudi-theme.git
+	url = https://github.com/g-udi/gaudi-theme
 	branch = main
